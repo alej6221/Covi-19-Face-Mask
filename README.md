@@ -5,9 +5,23 @@ Este repositorio contiene los archivos para replicar un modelo de deteccion de t
 ## Comenzando 🚀
 Es importante que clones este repositorio en tu cuenta de Google Drive y ejecutes los codigos en COLAB.
 
-Mira **Notebooks **  Para conocer los codigos de implementacion del proyecto.
+### Mira **Notebooks **  Para conocer los codigos de implementacion del proyecto.
 
-Mira **Datasets **  Para conocer las imagenes de entramiento  de implementacion del proyecto.
+
+#### Covid19_mask.ipynb
+
+Codigo para el entrenamiento del modelo 
+
+#### Prueba_#1.ipynb
+
+Codigo para realizar pruebas del modelo entrenado  utilizando el detector de rostros mtcnn 
+
+
+#### Prueba_#1_YOLO.ipynb
+
+Codigo para realizar pruebas del modelo entrenado  utilizando el detector de rostros YOLOv3 Face
+
+### Mira **Datasets **  Para conocer las imagenes de entramiento  de implementacion del proyecto.
 
 Para mayor informacion de las imagenes revisa:
 
@@ -15,20 +29,6 @@ https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
 
 https://drive.google.com/open?id=1soLIUkGruSKMzg5z5_OYYqUVoca4E_lI
  
-### Covid19_mask.ipynb
-
-Codigo para el entrenamiento del modelo 
-
-### Prueba_#1.ipynb
-
-Codigo para realizar pruebas del modelo entrenado  utilizando el detector de rostros mtcnn 
-
-
-## Prueba_#1_YOLO.ipynb
-
-Codigo para realizar pruebas del modelo entrenado  utilizando el detector de rostros YOLOv3 Face
-
-
 
 ## Construido con 🛠️
 
